@@ -1,0 +1,14 @@
+Development todo
+
+get camera stream from ARDRONE
+- ros node 
+- ar drone sdk
+- node.js - (useful for browser interface - get camera stream in browser ?)
+
+control drone from laptop
+- ros
+- node.js
+
+send video into ustream
+- ustream api ?
+- multiplexing the streams?
