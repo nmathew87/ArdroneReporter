@@ -1,0 +1,36 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+ARDrone Reporter Project. July 25th
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Development todo
+--------------------------
+
+get camera stream from ARDRONE
+- ros node [DONE]
+- ar drone sdk [DONE]
+- node.js - (useful for browser interface - get camera stream in browser ?) [ TRYING THIS NOW]
+- multiple drone camera stream
+
+control drone from laptop
+- ros
+- node.js
+
+send video into ustream
+- ustream api ?
+- multiplexing the streams?
+
+Interesting Links
+----------------------------
+Node.js for webbased Parrot api  - http://nodejs.org/api/synopsis.html 
+
+Nodecopter: http://nodecopter.com/hack#basics
+
+Rosnodejs implementation - http://brandonalexander.com/rosnodejs/
+
+robotwebtools - http://robotwebtools.org/index.html
+
+multiple drones on a network: 
+http://drones.johnback.us/blog/2013/02/03/programming-multiple-parrot-a-dot-r-drones-on-one-network-with-node-dot-js/
+
+
